@@ -5,6 +5,10 @@ Converts Commands in text form to an easier to digest image. Meant for beginners
 
 ## Key
 
+Separate commands with a comma and space, i.e: df, 2, , f, 4, , RFS, b, 3
+
+![Example](docs/example.png?raw=true)
+
 ### Arrows
 bl - bracket left
 
