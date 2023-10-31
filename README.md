@@ -7,15 +7,20 @@ Converts Commands in text form to an easier to digest image. Meant for beginners
 
 ### Arrows
 bl - bracket left
+
 br - bracket right
+
  - (Empty space) Chevron/next command
+
 n - neutral/star
 
 b - back
+
 bp - hold back
 
 
 db - down back
+
 dbp - hold down back
 
 
@@ -24,22 +29,27 @@ dp - hold down
 
 
 df - down forward
+
 dfp - hold down forward 
 
 
 f - forward
+
 fp - hold forward
 
 
 uf - up foward
+
 ufp hold up foward
 
 
 u - up
+
 up - hold up
 
 
 ub - up back
+
 ubp - hold up back
 
 ### Buttons
